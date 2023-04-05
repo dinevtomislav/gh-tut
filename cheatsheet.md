@@ -1,5 +1,5 @@
-cat = shows what is written in a file
-nano = text editor
+--cat = shows what is written in a file
+-- nano = text editor
 alias = The alias command allows you to create keyboard shortcuts
 cd = change directory (..) go back to parent
 cp = copies files or directories
