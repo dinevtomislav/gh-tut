@@ -19,7 +19,7 @@
 >`curl` = data exchange as it returns data like bbc's code  
 >`echo` = outputs text given  
 >`curl -o filename url` = save the curl to a file  
->`checkout` = The git checkout command lets you navigate between the branches created by git branch .
+>`checkout` = The git checkout command lets you navigate between the branches created by git branch.  
 >`grep [options] pattern [files]` = The grep filter searches a file for a particular pattern of characters, and displays all lines that contain that pattern. The pattern that is searched in the file is referred to as the regular expression (grep stands for global search for regular expression and print out).   
 >`grep options` = `-c` : This prints only a count of the lines that match a pattern  
 >`-h` : Display the matched lines, but do not display the filenames.  
